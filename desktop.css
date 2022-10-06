@@ -1,0 +1,15 @@
+section {
+   /*  font-size: calc(1rem + .5vw);
+    line-height: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+    max-height: 600px;
+    max-width: 1000px; */
+
+    font-size: calc(.5rem + .5vw);
+    line-height: 1rem;
+    padding: .1rem;
+    margin: .1rem;
+    max-height: 600px;
+    max-width: 900px;
+}

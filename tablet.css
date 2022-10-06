@@ -1,0 +1,31 @@
+body {
+    width: 100%;
+    height: 100vh;
+    background-position: left;
+}
+section {
+    font-size: calc(1rem + .5vw);
+    line-height: 1rem;
+    padding: 1rem;
+    margin: 1rem;
+} 
+.contenedor {
+    width: 100%;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items:center;
+}
+/* .contenedor__subtitulo, .contenedor__parrafo {
+    display: none;
+} */
+form{
+    width: 100%;
+    height: 100vh;
+}
+#contenedor__boton{
+    position: absolute;
+    top: 0;
+    right: 0.7rem; 
+    margin-right: 1rem;
+}
